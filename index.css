@@ -1,11 +1,13 @@
 body {
-    font-family: Arial;
+    font-family: 'Fira Sans', sans-serif;
     font-style: normal;
     font-weight: 400;
     color: #333333;
     margin: 20px 50px;
 }
 h1, h2 {
+    /*background-color: #297fca;
+    color: white;*/
     font-weight: 400;
     text-align: center;
 }
