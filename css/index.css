@@ -39,6 +39,7 @@ body {
 .menuitem > a {
     color:white;
     text-decoration: none;
+    white-space: nowrap;
 }
 .menuitem > a:hover {
     color: #3fa9f5;
