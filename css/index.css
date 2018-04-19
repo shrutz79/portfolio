@@ -138,3 +138,8 @@ section ul {
 .disclaimer > span {
     font-weight: bold;
 }
+.faq h2 {
+    font-weight: bold;
+    margin-top: 40px;
+    font-size: 21px;
+}
