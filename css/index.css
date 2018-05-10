@@ -51,9 +51,19 @@ body {
 }
 .main a {
     color: #297fca;
+    text-decoration: none;
+    border-bottom: 1px dashed #297fca;
 }
 .main a:visited {
     color: #3fa9f5;
+    text-decoration: none;
+    border-bottom: 1px dashed #3fa9f5;
+}
+.main a:hover {
+    border-bottom: 1px solid #297fca;
+}
+.main a:visited:hover {
+    border-bottom: 1px solid #3fa9f5;
 }
 .main2 {
     margin: 12px 0px 70px 0px;
