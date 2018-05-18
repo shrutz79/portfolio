@@ -76,6 +76,23 @@ body {
     padding: 30px 49px 50px;
     margin-top: 0px;
 }
+a.sp {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px dashed white;
+}
+a.sp:visited {
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px dashed white;
+}
+a.sp:hover {
+    font-weight: bold;
+    border-bottom: 1px solid white;
+}
+
+
+
 .button {
     display: inline-block;
     background-color: 3fa9f5;
