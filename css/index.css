@@ -170,3 +170,7 @@ section ul {
     margin-top: 40px;
     font-size: 21px;
 }
+
+.inactive {
+    color: #bcbdc3;
+}
